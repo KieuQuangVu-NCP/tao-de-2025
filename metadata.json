@@ -1,0 +1,8 @@
+{
+  "name": "AI - Tạo Trắc Nghiệm GDPT 2018",
+  "description": "Hệ thống AI thông minh hỗ trợ giáo viên tạo ma trận và câu hỏi trắc nghiệm chuẩn cấu trúc chương trình Giáo dục Phổ thông 2018 (Trắc nghiệm nhiều lựa chọn, Đúng/Sai, Trả lời ngắn, Tự luận)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
